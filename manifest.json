@@ -1,0 +1,11 @@
+{
+    "manifest_version": 3,
+    "version": "0.0.1",
+    "name": "Extension Test",
+    "description": "Testing dev extension",
+    "author": "Gabriel Santos",
+    "browser_action": {
+        "default_title": "Working",
+        "default_popup": "index.html"
+    }
+}
