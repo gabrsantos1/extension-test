@@ -29,7 +29,7 @@ form {
 
 .button:hover{
     background-color: rgb(90, 173, 13);
-    color:white;rgb(73, 138, 13);
+    color:white;
     border-radius: 8px;
 }
 
