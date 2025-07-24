@@ -4,8 +4,8 @@
     "name": "Extension Test",
     "description": "Testing dev extension",
     "author": "Gabriel Santos",
-    "browser_action": {
-        "default_title": "Working",
+    "permissions": ["activeTab", "scripting"],
+    "action": {
         "default_popup": "index.html"
     }
 }
